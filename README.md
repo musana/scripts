@@ -2,7 +2,7 @@
 
 # Amaç
 Bu repoda;
-bash ve python scriptler paylaşımları;
+bash ve python script paylaşımları;
 karşılaşılan sorunlar ve çözümler ele alınacaktır.
 
 ReVdK3-r3.sh - "You input a wireless interface that doesn't exist!"  Hatasının Çözümü !
