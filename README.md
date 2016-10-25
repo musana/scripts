@@ -6,4 +6,7 @@ wireless kartını monitör moda aldığınızda wlan0mon olarak isimlendirilece
 Bu script wlan0mon için tekrar düzenlenilmiştir sorunsuzca kullanabilirsiniz.  
 
 ###xor.py
-Xor mantıksal operatörü kullanılarak yapılan şifrelemeyi binary seviyede görebilmek için yazdığım ufak bir tooldur.
+Xor mantıksal operatörü kullanılarak yapılan şifrelemeyi binary seviyede görebilmek için yazdığım ufak bir tooldur.  
+
+###newsBot.py
+Birkaç haber sitesindeki manşet haberleri çekip listeyen bir bot. Haber detayları için ise google'ın shorting url api sini kullandım. Geliştirilmeye müsait duruyor.
