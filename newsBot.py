@@ -9,7 +9,7 @@ from termcolor import colored, cprint
 
 cprint("Musa ŞANA-musana.net", "white", "on_red", end="\n", attrs=['bold'])
 
-key = "AIzaSyA-1q_CrypiE_0vQPtjX1EdVlimfjfInZU"
+key = "YOUR API KEY FOR SHORTING URL"
 shortener = Shortener('Google', api_key=key)
 
 
