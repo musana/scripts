@@ -10,3 +10,8 @@ Xor mantıksal operatörü kullanılarak yapılan şifrelemeyi binary seviyede g
 
 ###newsBot.py
 Birkaç haber sitesindeki manşet haberleri çekip listeyen bir bot. Haber detayları için ise google'ın shorting url api sini kullandım. Geliştirilmeye müsait duruyor.
+
+
+###merge.py
+Youtube veya başka video paylaşım sitelerinde indirilen DASH(ses veya görüntüsü eksik olan dosya) türündeki ses ve görüntülerinin birleştirilmesi için yazılmış küçük bir scripttir. İndirilen görüntü/ses'e ait diğer parçası olan görüntü/ses aynı klasöre atılıp bu script çalıştırılır ise görüntünün ses dosyasını sorunsuz bir şekilde birleştirecektir.
+**Not:**Scriptin çalışması için ffmpeg'in yüklü olması gerekmektedir.
