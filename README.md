@@ -15,3 +15,6 @@ Birkaç haber sitesindeki manşet haberleri çekip listeyen bir bot. Haber detay
 ### merge.py
 Youtube veya başka video paylaşım sitelerinde indirilen DASH(ses veya görüntüsü eksik olan dosya) türündeki ses ve görüntülerinin birleştirilmesi için yazılmış küçük bir scripttir. İndirilen görüntü/ses'e ait diğer parçası olan görüntü/ses aynı klasöre atılıp bu script çalıştırılır ise görüntünün ses dosyasını sorunsuz bir şekilde birleştirecektir.
 **Not:**Scriptin çalışması için ffmpeg'in yüklü olması gerekmektedir.
+
+### cf-dynamic-dns.sh
+A bash script to update a Cloudflare DNS A record with the external IP of the source machine
